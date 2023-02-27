@@ -9,6 +9,11 @@ module.exports = {
       transparent: 'transparent',
       current: 'currentColor',
       'greenMDS': '#29B7C5',
+      'white': '#FFFFFF',
+    },
+    fontFamily: {
+      'sans': ['Roboto', 'sans-serif'],
+      'anek': 'Anek Bangla, Arial, sans-serif',
     },
     extend: {},
   },
